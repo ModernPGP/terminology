@@ -39,6 +39,7 @@ Keyring / Contacts
 
 Fingerprint / Key Address
 > strong discussion, key
+> Maybe "Verification Code" ?
 
 How to visualise a valid signature with expired key
 
@@ -74,7 +75,7 @@ UserID / Identity
 Exportable Certificate 
 
 User Verification / Key Verification / Key-User assignement 
-
+> What about "Identity confirmation" or "Confirm Identity" ?
 
 We put the following terms to Blacklist
 ---------------------------------------
