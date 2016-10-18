@@ -83,9 +83,6 @@ We put the following terms to Blacklist
 inline-pgp / pgp-mime
 short key-id / long key-id / key-i
 
-
-
-
 Icons
 -----
 
@@ -93,14 +90,24 @@ Icons
 (just saying
 a padlock shall be shown WIDE OPEN, not "slightly" )
 
-BAD   GOOD 
----     ---
-! !     ! !
-!       !  
-+-+   +-+  
-! !   ! !  
-+-+   +-+  
+Bad:
 
+```
+---
+! !
+!  
++-+
+! !
++-+
+```
 
+Good:
 
-
+```
+  ---
+  ! !
+  !  
++-+  
+! !  
++-+  
+```
